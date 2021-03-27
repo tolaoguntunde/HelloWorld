@@ -1,2 +1,3 @@
-console.log("Hello World!")
-console.log("Add a second change")
+let firstname ="serah"
+let lastname ="Majekodunmi"
+console.log(firstname + lastname)
